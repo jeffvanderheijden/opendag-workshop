@@ -1,0 +1,20 @@
+{
+  "name": "glr-code-quest",
+  "private": true,
+  "version": "3.1.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "vite": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "phaser": "^3.90.0",
+    "lucide-react": "latest"
+  },
+  "devDependencies": {}
+}
